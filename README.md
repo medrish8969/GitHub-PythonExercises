@@ -31,9 +31,9 @@ After creating your GitHub acount, start and login to **GitHub Desktop** using y
 
 Within **GitHub**, find your newly created assignment repository, click the green Code button, and choose *Open with GitHub Desktop*.  
 
-**Step #5 - View Files in Windows Explorer**
+**Step #4 - Start Jupyter Notebook**
 
-In **GitHub Desktop**, choose the option to view the files of your repository in Explorer.
+Start the **Python Command Prompt" then navigate to the drive and folder containining your <code>.ipynb</code> files.
 
 **Step #6 - Edit a File in Notepad++**
 
