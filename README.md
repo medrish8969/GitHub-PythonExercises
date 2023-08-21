@@ -5,7 +5,7 @@ Fundamental Python exercises in Jupyter Notebook format organized to pair with t
 
 ### Objective
 
-Become familiar with **Python Fundamentals** and running code in **Jupyter Notebooks**.
+Become familiar with **Python Fundamentals** by editing and running code in a **Jupyter Notebook**.
 
 ### Task
 
