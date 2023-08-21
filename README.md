@@ -16,7 +16,7 @@ Accept a GitHub assignment, clone the instructor repository to your GitHub accou
 The following software programs will be used in this exercise.  Each is available on the laboratory computers in S3014A.  If you plan to use your own personal computer this semester, please download and install.
 1.  GitHubDesktop - https://desktop.github.com/
 2.  Python Command Prompt
-3.  Jupyter Notebooks  
+3.  Jupyter Notebook  
 
 ### Procedures
 
