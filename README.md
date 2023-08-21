@@ -35,26 +35,28 @@ Within **GitHub**, find your newly created assignment repository, click the gree
 
 Start the **Python Command Prompt" then navigate to the drive and folder containining your <code>.ipynb</code> files.  For example, if my cloned repository was stored in the <code>D:\GitHub_Repos\PythonExercises</code>, then I would type <code>cd /d d:\GitHub_Repos\PythonExercises</code> in the Python Command Prompt window.
 
-**Step #6 - Edit a File in Notepad++**
+Once you have navigated to the correct folder containing your <code>.ipynb</code> files, type <code>jupyter notebook</code> in the Python Command Prompt window.
 
-Find the file <code>mean_temp.py</code>, open it in **Microsoft VS Code**, and enter the code requested in the comments.  Run the code in the IDE to make sure it works and calculates a correct final value.
+**Step #5 - Edit Files in Jupyter Notebook**
 
-**Step #7 - Describe and Commit Changes to Master**
+Read the information and instructions in each of the Markdown cells in the assigned notebooks, then modify the code as instructed in the following code block.  Finally, run the code to see if the edits produce the correct output.  Repeat this until all assigned notebooks are complete.  Be sure to save your changes before exiting.
 
-After saving your edits to <code>mean_temp.py</code>, return to **GitHub Desktop** and you should see a snippet of the file that highlights the revisions you just made.  Characterize your edits with a summary and short description (bottom left corner of **GitHub Desktop**), then choose Commit to Main.  This workflow allows you to maintain a record of changes made - essentially multiple versions of the same file - without having to have multiple copies of your file (e.g., mean_temp1.py, mean_temp2.py, etc.).  This is version control!
+**Step #6 - Describe and Commit Changes to Master**
 
-**Step #8 - Push Changes to Origin Repository on GitHub**
+After saving your edits, return to **GitHub Desktop** and you should see a snippet of the file that highlights the revisions you just made.  Characterize your edits with a summary and short description (bottom left corner of **GitHub Desktop**), then choose Commit to Master.  
+
+**Step #7 - Push Changes to Origin Repository on GitHub**
 
 After you have made all of the changes you want, you now have to sync these changes - which apply only to the local version of the repository - to your original repo on **GitHub**. Once you have committed changes to master, you will have the option to push the commits to the origin remote.  Click the blue *Push Origin* button.
 
-**Step #9 - Verify Changes in GitHub**
+**Step #8 - Verify Changes in GitHub**
 
 In **GitHub Desktop**, choose the option to open your repository page on **GitHub** in your Web browser.  Alternatively, you can simply open a Web browser and navigate to https://github.com.  Find the updated <code>mean_temp.py</code> file and open it to confirm that your local changes are now reflected in your online repository.
 
-**Step #10 - Raise an Issue**
+**Step #9 - Optional - Raise an Issue**
 
-You can ask questions of me directly in **GitHub** by raising an *issue*.  In your repo on **GitHub**, find and click *Issue* in the menu at the top of the page.  Next, click on the green *New Issue* button.  This opens a chat-style window that allows you to pose questions and for me to provide a response.  This feature also helps us maintain a permanent record of our online conversation.  Use this issue that you have generated to ask me a question.
+Remember that you can ask questions of me directly in **GitHub** by raising an *issue*.  In your repo on **GitHub**, find and click *Issue* in the menu at the top of the page.  Next, click on the green *New Issue* button.  This opens a chat-style window that allows you to pose questions and for me to provide a response.  This feature also helps us maintain a permanent record of our online conversation.  Use this issue that you have generated to ask me a question.
 
 ### Submission
 
-After completing the requested edits to <code>mean_temp.py</code> make sure that you have (1) committed the changes to the main branch and provided a short summary and description of your changes and (2) pushed those changes from your local repository to the origin repository on **GitHub**.  Double check your work by reviewing your repository on GitHub and make sure that you have also raised an *issue* to ask me a question.  Once you have pushed any revisions to your online assignment repository, both you and I can see the repository.  I'll take advantage of this to review your work and provide feedback.
+After completing the requested edits to each of the assigned <code>.ipynb</code> files, make sure that you have (1) committed the changes to the main branch and provided a short summary and description of your changes and (2) pushed those changes from your local repository to the origin repository on **GitHub**.  Double check your work by reviewing your repository on GitHub and have asked any questions you might have by raising an *issue*.  
