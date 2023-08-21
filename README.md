@@ -33,7 +33,7 @@ Within **GitHub**, find your newly created assignment repository, click the gree
 
 **Step #4 - Start Jupyter Notebook**
 
-Start the **Python Command Prompt" then navigate to the drive and folder containining your <code>.ipynb</code> files.
+Start the **Python Command Prompt" then navigate to the drive and folder containining your <code>.ipynb</code> files.  For example, if my cloned repository was stored in the <code>D:\GitHub_Repos\PythonExercises</code>, then I would type <code>cd /d d:\GitHub_Repos\PythonExercises</code> in the Python Command Prompt window.
 
 **Step #6 - Edit a File in Notepad++**
 
